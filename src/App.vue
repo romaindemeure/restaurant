@@ -9,32 +9,32 @@
 </template>
 
 <style>
-  html {
-    font-size: 14px;
-  }
+html {
+  font-size: 14px;
+}
 
-  body {
-    background: #f6f6f6;
-    line-height: 1.625;
-    margin: 0;
-    padding: 0;
-    font-family: 'Source Sans Pro', sans-serif;
-  }
+body {
+  background: #f6f6f6;
+  line-height: 1.625;
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+img {
+  max-width: 100%;
+  height: auto;
+}
 
-  a {
-      color: inherit;
-      text-decoration: none;
-      transition: color .3s;
-  }
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: color .3s;
+}
 
-  @media only screen and (min-width: 750px) {
-      html {
-          font-size: 16px;
-      }
-  }
+@media only screen and (min-width: 750px) {
+    html {
+        font-size: 16px;
+    }
+}
 </style>

@@ -4,7 +4,9 @@
 </template>
 
 <script setup>
+
 import Header from '@/components/homecomponents/header.vue'
+
 </script>
 
 <style>
