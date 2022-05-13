@@ -38,7 +38,7 @@
     margin-right: auto;
 }
 .blockBody {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 .textFirst {
     font-family: 'Pinyon Script', serif;

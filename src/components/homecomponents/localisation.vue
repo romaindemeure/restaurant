@@ -19,7 +19,7 @@
 <style scoped>
 .localisation {
     margin: 0 0;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .mapItem {

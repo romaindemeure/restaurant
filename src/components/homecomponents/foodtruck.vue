@@ -31,6 +31,7 @@
     margin: 0 auto;
     max-width: 1100px;
 }
+
 .blockBody {
     padding: 10px;
     margin-top: 20px;

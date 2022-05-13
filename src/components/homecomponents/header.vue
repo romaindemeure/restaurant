@@ -52,6 +52,11 @@
 .topbar a:hover {
     color: #C89446;
 }
+
+.header .topbar .logo {
+    margin-bottom: 20px;
+}
+
 .menuItem {
     display: inline-block;
     padding: 0 15px;
@@ -106,6 +111,9 @@
         align-items: center;
         max-width: 1150px;
         margin: 0 auto;
+    }
+    .header .topbar .logo {
+        margin-bottom: 0;
     }
     .baseline {
         padding: 120px 0 230px;

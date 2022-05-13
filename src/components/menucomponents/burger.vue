@@ -246,7 +246,7 @@
 }
 .blockFirst {
     text-align: center;
-    margin: 60px 0;
+    margin: 20px 0;
 }
 .blockBody {
     margin-top: 60px;

@@ -48,9 +48,11 @@
     max-width: 1100px;
     margin: 0 auto;
 }
+.block {
+    margin: 20px 0;
+}
 
 .blockBody {
-    margin-top: 20px;
     padding: 10px;
 }
 .textFirst {
