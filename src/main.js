@@ -9,6 +9,7 @@ import BurgerPages from '@/views/burger.vue'
 import BuritosPages from '@/views/buritos.vue'
 import PokeBolwsPages from '@/views/pokebowls.vue'
 import VeganPages from '@/views/vegan.vue'
+import BlogPages from '@/views/blog.vue'
 import OrderedPages from '@/views/ordered.vue'
 
 import HomeBurgerPages from '@/components/homecomponents/dishesmenu/burger.vue'
@@ -77,6 +78,11 @@ const router = VueRouter.createRouter({
             path: '/commander',
             name: 'Ordered',
             component: OrderedPages,
+        },
+        {
+            path: '/blog',
+            name: 'Blog',
+            component: BlogPages,
         }
     ]
 })

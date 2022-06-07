@@ -1,6 +1,6 @@
 <template lang="">
     <div class="container">
-        <h1>Le FoodTruck</h1>
+        <h1>Le Blog</h1>
     </div>
 </template>
 
