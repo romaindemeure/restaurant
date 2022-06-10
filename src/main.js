@@ -9,6 +9,7 @@ import BurgerPages from '@/views/burger.vue'
 import BuritosPages from '@/views/buritos.vue'
 import PokeBolwsPages from '@/views/pokebowls.vue'
 import VeganPages from '@/views/vegan.vue'
+import ComponentstestPages from '@/views/componentstest.vue'
 import BlogPages from '@/views/blog.vue'
 import OrderedPages from '@/views/ordered.vue'
 
@@ -17,6 +18,7 @@ import HomeBuritosPages from '@/components/homecomponents/dishesmenu/buritos.vue
 import PokeBowlsPages from '@/components/homecomponents/dishesmenu/pokeBowls.vue'
 import HomeSushiPages from '@/components/homecomponents/dishesmenu/sushi.vue'
 import HomeVeganPages from '@/components/homecomponents/dishesmenu/vegan.vue'
+
 
 
 const router = VueRouter.createRouter({
@@ -73,6 +75,11 @@ const router = VueRouter.createRouter({
             path: '/vegan',
             name: 'Vegan',
             component: VeganPages,
+        },
+        {
+            path: '/componentstest',
+            name: 'Componentstest',
+            component: ComponentstestPages,
         },
         {
             path: '/commander',
