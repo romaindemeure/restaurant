@@ -7,8 +7,8 @@
             <img class="menuSummaryImg" src="/images/crusted-chicken-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Poké-bowls</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
+                <h3 class="menuSummaryTitle">Poké-bowls 1</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum incidunt ducimus pariatur recusandae culpa, Numquam est quod.</p>
                 <div class="menuSummaryPrice">15,30€</div>
             </div>
 
@@ -19,9 +19,9 @@
                 <img class="menuSummaryImg" src="/images/bobun-light-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">BoBun Light Odd </h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">11€</div>
+                <h3 class="menuSummaryTitle">Poké-bowls 2</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur corporis quidem enim nulla cumque quia, perferendis aliquid nostrum iusto vitae aliqua</p>
+                <div class="menuSummaryPrice">13€</div>
             </div>
 
         </div>
@@ -31,9 +31,9 @@
             <img class="menuSummaryImg" src="/images/poisson-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Amazing Fish</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">12€</div>
+                <h3 class="menuSummaryTitle">Poké-bowls 3</h3>
+                <p class="menuSummaryText">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla eveniet expedita quasi minus sapiente ea, ad cum quidem cumque, veritatis error hic assumenda!</p>
+                <div class="menuSummaryPrice">10,30€</div>
             </div>
 
         </div>
@@ -43,9 +43,9 @@
             <img class="menuSummaryImg" src="/images/paella-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Spicy Egg Paella</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">14.50€</div>
+                <h3 class="menuSummaryTitle">Poké-bowls 4</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur, animi? Placeat ullam corporis magni. facilis rem excepturi placeat eveniet laborum ratione!</p>
+                <div class="menuSummaryPrice">11.50€</div>
             </div>
 
         </div>

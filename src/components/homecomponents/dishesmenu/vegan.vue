@@ -7,9 +7,9 @@
             <img class="menuSummaryImg" src="/images/crusted-chicken-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Vegan</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">15,30€</div>
+                <h3 class="menuSummaryTitle">Vegan 1</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim beatae voluptas rem ex vel fuga nesciunt. vitae esse voluptatum perspiciatis similique!</p>
+                <div class="menuSummaryPrice">8,50€</div>
             </div>
 
         </div>
@@ -19,9 +19,9 @@
                 <img class="menuSummaryImg" src="/images/bobun-light-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">BoBun Light Odd </h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">11€</div>
+                <h3 class="menuSummaryTitle">Vegan 2</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et iste laudantium dolorum, perferendis nisi voluptatibus minima. Voluptatem alias ullam aut commodi id!</p>
+                <div class="menuSummaryPrice">12,50€</div>
             </div>
 
         </div>
@@ -31,9 +31,9 @@
             <img class="menuSummaryImg" src="/images/poisson-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Amazing Fish</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">12€</div>
+                <h3 class="menuSummaryTitle">Vegan 3</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem eos ut veritatis autem odio quia architecto recusandae dignissimos.</p>
+                <div class="menuSummaryPrice">15,30€</div>
             </div>
 
         </div>
@@ -43,9 +43,9 @@
             <img class="menuSummaryImg" src="/images/paella-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Spicy Egg Paella</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
-                <div class="menuSummaryPrice">14.50€</div>
+                <h3 class="menuSummaryTitle">Vegan 4</h3>
+                <p class="menuSummaryText">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero impedit inventore modi fugiat neque! Soluta cupiditate sunt iusto id? Similique.</p>
+                <div class="menuSummaryPrice">16€</div>
             </div>
 
         </div>

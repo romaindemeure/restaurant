@@ -32,19 +32,19 @@ const router = VueRouter.createRouter({
                     component: HomeBurgerPages,
                 },
                 {
-                    path: 'homeBuritos',
+                    path: 'homeburitos',
                     component: HomeBuritosPages,
                 },
                 {
-                    path: 'homePokeBowls',
+                    path: 'homepokeBowls',
                     component: PokeBowlsPages,
                 },
                 {
-                    path: 'homeSushi',
+                    path: 'homesushi',
                     component: HomeSushiPages,
                 },
                 {
-                    path: 'homeVegan',
+                    path: 'homevegan',
                     component: HomeVeganPages,
                 },
             ]

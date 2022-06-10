@@ -12,10 +12,10 @@
         </div>
         <nav class="dishesMenu">
             <router-link to="/" class="disheLink">Burger</router-link>
-            <router-link to="/homeBuritos" class="disheLink">Buritos</router-link>
-            <router-link to="/homePokeBowls" class="disheLink">poké-bowls</router-link>
-            <!-- <router-link to="/homeSushi" class="disheLink">Sushi</router-link> -->
-            <router-link to="/homeVegan" class="disheLink">Vegan</router-link>
+            <router-link to="/homeburitos" class="disheLink">Buritos</router-link>
+            <router-link to="/homepokebowls" class="disheLink">poké-bowls</router-link>
+            <!-- <router-link to="/homesushi" class="disheLink">Sushi</router-link> -->
+            <router-link to="/homevegan" class="disheLink">Vegan</router-link>
         </nav>
     </section>
     <router-view></router-view>

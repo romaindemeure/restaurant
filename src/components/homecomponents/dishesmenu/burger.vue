@@ -7,8 +7,8 @@
             <img class="menuSummaryImg" src="/images/crusted-chicken-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Le Jaennot</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
+                <h3 class="menuSummaryTitle">Burger 1</h3>
+                <p class="menuSummaryText">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat recusandae, consectetur repellendus ducimus obcaecati fugiat quam architecto.</p>
                 <div class="menuSummaryPrice">15,30€</div>
             </div>
 
@@ -19,8 +19,8 @@
                 <img class="menuSummaryImg" src="/images/bobun-light-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Le Marcel</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
+                <h3 class="menuSummaryTitle">Burger 2</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum, quasi quas. Perspiciatis veritatis deleniti dicta aspernatur minus.</p>
                 <div class="menuSummaryPrice">11€</div>
             </div>
 
@@ -31,8 +31,8 @@
             <img class="menuSummaryImg" src="/images/poisson-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Amazing Fish</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
+                <h3 class="menuSummaryTitle">Burger 3</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea explicabo quasi autem deserunt non, dolores rem? Earum quis ipsa animi sit odit.</p>
                 <div class="menuSummaryPrice">12€</div>
             </div>
 
@@ -42,8 +42,8 @@
             <img class="menuSummaryImg" src="/images/paella-square.jpg" alt="">
 
             <div class="menuSummaryflex">
-                <h3 class="menuSummaryTitle">Spicy Egg Paella</h3>
-                <p class="menuSummaryText">Beryl Cook is one of Britain’s most talented and amusing artists .Beryl’s pictures feature women of all shapes and sizes enjoying themselves</p>
+                <h3 class="menuSummaryTitle">Burger 4</h3>
+                <p class="menuSummaryText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum aperiam facere, temporibus officiis aliquam quibusdam ipsa corrupti consectetur.</p>
                 <div class="menuSummaryPrice">14.50€</div>
             </div>
 
