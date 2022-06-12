@@ -10,31 +10,28 @@
         </div>
 
         <!-- BLOC DE GAUCHE -->
-        <div class="blockBody blockLeft" v-for="menu in menus">
+        <div v-for="(menu, index) in menus">
+            <div class="blockBody blockLeft" >
 
-            <div class="blockTexte">
-                <h2 class="textSecond">{{ menu.title }}</h2>
-                <p class="textDescription">
-                    {{ menu.description }}
-                </p>
-                <ul class="containerListe">
-                    <li>Buns artisanal</li>
-                    <li>Sauce maison</li>
-                    <li>Oignons rouge</li>
-                    <li>Cheddar rouge</li>
-                    <li>Confit d'oignons</li>
-                    <li>Steak Black Angus 150g</li>
-                    <li>Edam</li>
-                </ul>
-                <h3 class="price">{{ menu.price }}€</h3>
+                <div class="blockTexte">
+                    <h2 class="textSecond">{{ menu.title }}</h2>
+
+                    <p class="textDescription">{{ menu.description }}</p>
+
+                    <ul class="containerListe">
+                        <li v-for="ingredient in menu.ingredients">{{ ingredient }}</li>
+                    </ul>
+
+                    <h3 class="price">{{ menu.price }}€</h3>
+                </div>
+
+                <div class="blockImg">
+                    <img class="img" src="https://via.placeholder.com/400x400" alt="">
+                </div>
+
             </div>
-
-        
-            <div class="blockImg">
-                <img class="img" src="https://via.placeholder.com/400x400" alt="">
-            </div>
-
         </div>
+
 
         <!-- BLOC DE DROITE -->
         <!-- <div class="blockBody blockRight">
@@ -70,13 +67,13 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-    data() {
+    data() { 
         return {
             menus: [
                 {
                     title: "Buger 1",
                     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, aut sint tempora animi sequi repellat modi.",
-                    ingredient : [
+                    ingredients : [
                         "Buns artisanal", 
                         "Sauce maison", 
                         "Oignons rouge", 
@@ -90,7 +87,7 @@ export default defineComponent({
                 {
                     title: "Burger 2",
                     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, aut sint tempora animi sequi repellat modi.",
-                    ingredient : [
+                    ingredients : [
                         "Buns artisanal", 
                         "Sauce maison", 
                         "Oignons rouge", 
@@ -104,7 +101,7 @@ export default defineComponent({
                 {
                     title: "Burger 3",
                     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, aut sint tempora animi sequi repellat modi.",
-                    ingredient : [
+                    ingredients : [
                         "Buns artisanal", 
                         "Sauce maison", 
                         "Oignons rouge", 
@@ -118,7 +115,7 @@ export default defineComponent({
                 {
                     title: "Burger 4",
                     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, aut sint tempora animi sequi repellat modi.",
-                    ingredient : [
+                    ingredients : [
                         "Buns artisanal", 
                         "Sauce maison", 
                         "Oignons rouge", 
@@ -129,10 +126,9 @@ export default defineComponent({
                     ],
                     price: "11,50"
                 },
-
             ]
         }
-    }
+    },
 })
 </script>
 

@@ -13,7 +13,7 @@
                 <router-link to="/buritos" class="menuItem">Buritos</router-link>
                 <router-link to="/pokebowls" class="menuItem">Poké-bowls</router-link>
                 <router-link to="/vegan" class="menuItem">vegan</router-link>
-                <router-link to="/componentstest" class="menuItem">componentstest</router-link>
+                <!-- <router-link to="/componentstest" class="menuItem">componentstest</router-link> -->
                 <router-link to="/foodtruck" class="menuItem">FoodTruck</router-link>
                 <router-link to="/blog" class="menuItem">Blog</router-link>
                 <router-link to="/commander" class="menuItem menuButton">Commander</router-link>
