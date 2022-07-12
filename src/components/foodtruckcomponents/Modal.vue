@@ -3,7 +3,7 @@
         <div class="overlay"></div>
 
         <div class="modale"></div>
-            <div class="btn-modale"></div>
+            <button>fermer</button>
             <h2>Le contenu de la modale</h2>
         
     </div>
