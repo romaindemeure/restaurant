@@ -1,11 +1,19 @@
-<template lang="">
+<template>
     <div class="container">
         <h1>Le FoodTruck</h1>
+        <modale></modale>
     </div>
 </template>
 
-<script setup>
+<script>
+import Modale from './Modal.vue'
 
+export default {
+    name: 'Contenu',
+    components: {
+        'modale': Modale
+    }
+}
 
 </script>
 
